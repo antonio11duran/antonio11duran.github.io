@@ -18,17 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Antonio's Project(s) Page
+title: Antonio Duran Jr.
 email: antonio11duran@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Antonio Duran's portfolio filled with projects and updates.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  antonio11duran
+description: CS student & full-stack developer based in Denver, CO.
+baseurl: ""
+url: "https://antonio11duran.github.io"
+github_username: antonio11duran
 
-# Build settings
 theme: minima
+minima:
+  skin: dark  # remove this line for light mode
+
+header_pages:
+  - projects.md
+  - blog.md
+  - about.md
+
 plugins:
   - jekyll-feed
 
