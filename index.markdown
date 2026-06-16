@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Hi, I'm Antonio 👋
+## Hi, I'm Antonio 👋
 
 I'm a Computer Science student at CU Boulder (B.S., May 2027) with a background in full-stack web and mobile development. I'm fluent in English and Spanish, and I bring a mix of technical skills and real-world experience in program coordination and team leadership.
 
