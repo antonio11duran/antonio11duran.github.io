@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
----
+layout: page
+title: Hi, I'm Antonio 👋
 
-## Hi, I'm Antonio 👋
+---
 
 I'm a Computer Science student at CU Boulder (B.S., May 2027) with a background in full-stack web and mobile development. I'm fluent in English and Spanish, and I bring a mix of technical skills and real-world experience in program coordination and team leadership.
 
