@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Antonio Duran, a Computer Science student at the University of Colorado Boulder finishing a post-baccalaureate B.S. program (expected May 2027). I previously earned a B.S. in Exercise Science from Creighton University and completed a Full Stack Web Development Boot Camp at the University of Denver in 2023.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I currently work as a Program Coordinator at Regis University, where I manage scheduling, finances, and operations for two graduate-level programs.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm passionate about building useful software, learning new languages (currently Kotlin for Android development), and bridging my background in coordination and communication with software engineering.
 
+**Fluent in English and Spanish.**
 
-[jekyll-organization]: https://github.com/jekyll
+📄 [Resume](../assets/Antonio_Duran_Resume.pdf) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/antonio11duran)
