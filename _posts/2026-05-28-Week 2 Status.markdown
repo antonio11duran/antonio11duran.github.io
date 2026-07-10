@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 2 Project Update"
-date:   2026-05-28 21:00:00 -0600
+date:   2026-05-28
 categories: Project Status
 ---
 This post is a part of a series of weekly status updates for an Android app project I am doing as a part of the Professional Development in Computer Science class at the University of Colorado Boulder.
