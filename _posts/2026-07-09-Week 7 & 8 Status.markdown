@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week 7 & 8 Project Update"
+date:   2026-07-09 22:00:00 -0600
+categories: Project Status
+---
+This post is a part of a series of weekly status updates for an Android app project I am doing as a part of the Professional Development in Computer Science class at the University of Colorado Boulder.
+
+## What did you do last week?
+
+Last week I was able to connect a second API call to pull all subject data for my current reviews. I was also able to display one review at a time, as well as iterate through the active reviews.
+
+## What do you plan to do this week?
+
+This week I am in the middle of implementing accepting user input and validating it against the allowed readings or allowed meanings.
+
+## Are there any impediments in your way?
+
+The only real impediment is trying to set up my review structure so it allows for the different types of reviews. For Kanji and Vocabulary, a user needs to correctly enter the meaning and the reading of the review card before marking that review as complete. For radicals, only the reading is necessary. I currently have a bare validation setting of checking meaning, then reading, then moving on to next review. A radical review card will probably break the app in its current state.
+
+## Reflection on the process you used last week, how can you make the process work better?
+
+I have been liking my process so far. There are different moving pieces with the three different types of review cards, but the Kanji and Vocabulary are similar enough (and are the majority of reviews) to be able to do simple testing on. Right now my strategy is to implement a new feature, only accounting for those two types of reviews. Once I know the code actually works, then refactor it to account for Radicals, or the small differences between the Kanji and Vocabulary review cards.
