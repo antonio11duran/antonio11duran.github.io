@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 10 Project Update"
+date:   2026-07-23
+categories: Project Status
+---
+This post is a part of a series of weekly status updates for an Android app project I am doing as a part of the Professional Development in Computer Science class at the University of Colorado Boulder.
+
+## What did you do last week?
+
+Last week I did not accomplish as much as I had hoped. With life stuff interfering with my usual heads down time, I found it difficult to reach my goals. I was able to do some research on POST requests to WaniKani. This helped me implement the data classes for the request. I also ran into an issue with the Retrofit documentation changing sites, so that took me by surprise when my link suddenly went to a 404 screen. Eventually the Github moderators updated the site link there.
+
+
+## What do you plan to do this week?
+
+Like last week, my goal is to implement the POST request and be able to actually update my data on the WaniKani site. It's also my son's first birthday, so I will probably spend as much time as possible just soaking up this milestone.
+
+## Are there any impediments in your way?
+
+This will be another busy week with life stuff, so I will try my best to work towards my goal slowly.
+
+## Reflection on the process you used last week, how can you make the process work better?
+
+My process fell apart a bit when I could not dedicate time on the days I normally do for this class. I also found it difficult to compromise on the little free time I had to spend it at my computer instead of with family. I need to do a better job at sticking to the times I set forth ahead of time. Being more flexible in using other free time for the project would also be a good strategy this week.
