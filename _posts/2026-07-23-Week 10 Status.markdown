@@ -10,7 +10,6 @@ This post is a part of a series of weekly status updates for an Android app proj
 
 Last week I did not accomplish as much as I had hoped. With life stuff interfering with my usual heads down time, I found it difficult to reach my goals. I was able to do some research on POST requests to WaniKani. This helped me implement the data classes for the request. I also ran into an issue with the Retrofit documentation changing sites, so that took me by surprise when my link suddenly went to a 404 screen. Eventually the Github moderators updated the site link there.
 
-
 ## What do you plan to do this week?
 
 Like last week, my goal is to implement the POST request and be able to actually update my data on the WaniKani site. It's also my son's first birthday, so I will probably spend as much time as possible just soaking up this milestone.
