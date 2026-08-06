@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week 11 Project Update"
+date:   2026-08-02
+categories: Project Status
+---
+This post is a part of a series of weekly status updates for an Android app project I am doing as a part of the Professional Development in Computer Science class at the University of Colorado Boulder.
+
+## What did you do last week?
+
+I am a bit late with this update, but still wanted to provide an update, no matter how small it is! I wasn't able to get much done for the second week in a row, but I was able to practice a POST request via Insomnia to get the handle of how to actually update a review. I was able to sbumit it successfully! Though I marked it as incorrect, so they review should pop up in a few hours again. Making a new account for testing this project would be a good idea.
+
+## What do you plan to do this week?
+
+For another week, I plan on implementing the POST request for this. It is technically the last thing I need for my MVP, but one of my stretch goals is implementing a UI that can handle dark mode.
+
+## Are there any impediments in your way?
+
+Time is still a bit thin, but getting back into this weekend has motivated me to keep working on this project. I am glad for this class, as it helps keep me accountable and not push things off for too long.
+
+## Reflection on the process you used last week, how can you make the process work better?
+
+I need to be more flexible with my deadlines. I keep trying to get things accomplished by Thursdays (for these posts), but not all my updates need to have concrete results. As long as I keep learning and am able to put in some good hours on the weekends, then that can suffice.
