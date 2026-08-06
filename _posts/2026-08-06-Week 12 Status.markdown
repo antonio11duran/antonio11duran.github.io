@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week 12 Project Update"
+date:   2026-08-06
+categories: Project Status
+---
+This post is a part of a series of weekly status updates for an Android app project I am doing as a part of the Professional Development in Computer Science class at the University of Colorado Boulder.
+
+## What did you do last week?
+
+It has only been a few days since my last update, but I was able to implement some fixes to the data classes the correspond to the data I am sending to WaniKani. I also wrote the code for the POST API call using the Retrofit documentation, but am yet to test it.
+
+## What do you plan to do this week?
+
+I want to test the POST call with some sample data using a real review. I created a test account to populate some reviews for testing, that way I don't have to keep track of my personal progress and I can see if my calls are doing what they should. After I confirm the call actually works, I need to implement a way to keep track of incorrect answers to then be used in the API calls.
+
+## Are there any impediments in your way?
+
+Just the usual impediment of time itself! Work has picked up, but time allocation has helped balance things.
+
+## Reflection on the process you used last week, how can you make the process work better?
+
+I am accepting my process of accomplishing small things and being happy with that. It relieves some of the self-inflicted pressure and lets me enjoy the process of just working on something I enjoy. I am also really exicted to get the POST working, as that will allow me to move on to the QoL changes that originally drew me to this starting this project. 
